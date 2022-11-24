@@ -1,0 +1,22 @@
+{
+  "name": "hello-mars-akm",
+  "version": "1.0.0",
+  "description": "Say hello to Mars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonyKMusyoki/hello-mars-akm.git"
+  },
+  "keywords": [
+    "mars"
+  ],
+  "author": "Antony Kyalo Musyoki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AntonyKMusyoki/hello-mars-akm/issues"
+  },
+  "homepage": "https://github.com/AntonyKMusyoki/hello-mars-akm#readme"
+}
