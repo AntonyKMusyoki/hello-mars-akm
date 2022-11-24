@@ -1,4 +1,4 @@
 const hi = require("hello-mars");
 
-console.log("Lets go to Mars!");
+console.log("Lets go to Mars!!");
 hi();
